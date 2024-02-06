@@ -5,7 +5,7 @@ build:
 loans:
   message: "Welcome to loans production APIs "
   contactDetails:
-    name: "deepika padukone - product owner"
+    name: "deepika padukone singh - product owner"
     email: "dp@thejavabean.com"
   onCallSupport:
     - (301) 555-1234
