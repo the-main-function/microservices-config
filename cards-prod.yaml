@@ -3,7 +3,7 @@ build:
 
 #contact details
 cards:
-  message: "Welcome to cards related production APIs "
+  message: "Welcome to cards related production APIs !!"
   contactDetails:
     name: "aishwarya rai - PRODUCT OWNER"
     email: "{cipher}bce5e9b6037581fe1375fcb18cd8b30694df7c6ddbed72e29bddedf8d232a2bef1b75d2c6b36558e904c29d2df07eb8c"
