@@ -1,0 +1,12 @@
+build:
+  version: 2.0
+
+#contact details
+loans:
+  message: "Welcome to loans QA APIs "
+  contactDetails:
+    name: "radhika apte - qa lead"
+    email: "ra@thejavabean.com"
+  onCallSupport:
+    - (201) 555-1234
+    - (201) 523-1345

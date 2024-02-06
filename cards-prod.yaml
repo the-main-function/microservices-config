@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+
+#contact details
+cards:
+  message: "Welcome to cards related production APIs "
+  contactDetails:
+    name: "aishwarya rai - PRODUCT OWNER"
+    email: "ar@thejavabean.com"
+  onCallSupport:
+    - (601) 555-1234
+    - (601) 523-1345

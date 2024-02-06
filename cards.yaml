@@ -1,0 +1,15 @@
+build:
+  version: 3.0
+
+#contact details
+cards:
+  message: "Welcome to card related local APIs "
+  contactDetails:
+    name: "huma qureshi - developer"
+    email: "hq@thejavabean.com"
+  onCallSupport:
+    - (401) 555-1234
+    - (401) 523-1345
+
+greetings:
+  message: "some random message"

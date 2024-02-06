@@ -1,0 +1,12 @@
+build:
+  version: 2.0
+
+#contact details
+cards:
+  message: "Welcome to cards related QA APIs "
+  contactDetails:
+    name: "ahsas chana - QA lead"
+    email: "ac@thejavabean.com"
+  onCallSupport:
+    - (501) 555-1234
+    - (501) 523-1345

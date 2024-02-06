@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+
+#contact details
+loans:
+  message: "Welcome to loans production APIs "
+  contactDetails:
+    name: "deepika padukone - product owner"
+    email: "dp@thejavabean.com"
+  onCallSupport:
+    - (301) 555-1234
+    - (301) 523-1345

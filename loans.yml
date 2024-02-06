@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+#contact details
+loans:
+  message: "Welcome to loans related local APIs "
+  contactDetails:
+    name: "kareen kapoor - developer"
+    email: "kk@thejavabean.com"
+  onCallSupport:
+    - (101) 555-1234
+    - (101) 523-1345
