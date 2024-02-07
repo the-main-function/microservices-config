@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to accounts related production APIs "
   contactDetails:
     name: "MS DHONI THALA - product owner PO"
-    email: "ms@thejavabean.com"
+    email: "msthala@thejavabean.com"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
