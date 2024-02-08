@@ -3,7 +3,7 @@ build:
 
 #contact details
 accounts:
-  message: "Welcome to accounts related local APIs "
+  message: "Welcome to accounts related WORKSTATION APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@thejavabean.com"
